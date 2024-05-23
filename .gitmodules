@@ -1,0 +1,3 @@
+[submodule "taro-native-shell"]
+	path = taro-native-shell
+	url = https://github.com/NervJS/taro-native-shell.git
